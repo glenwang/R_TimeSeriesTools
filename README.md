@@ -1,2 +1,2 @@
 # R_TimeSeriesTools
-Please see Output_Samples to learn what this R package can do. 
+Please open up Output_Samples folder to learn what this R package can do. 
