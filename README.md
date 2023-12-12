@@ -1,2 +1,3 @@
-# R_TimeSeriesTools
-Please open the Output_Samples folder to learn what this R package can do. 
+# R_TimeSeriesTools: An Example
+> ![](https://github.com/glenwang/R_TimeSeriesTools/blob/master/Output_Samples/U5P4.png)
+
